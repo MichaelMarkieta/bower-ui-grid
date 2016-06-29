@@ -1,5 +1,5 @@
 {
-  "name": "angular-ui-grid",
+  "name": "angular-ui-grid-scss",
   "description": "A data grid for Angular",
   "main": [
     "./less",
